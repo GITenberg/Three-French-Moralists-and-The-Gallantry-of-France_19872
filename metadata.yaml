@@ -16,6 +16,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Edmund_Gosse
 description: 'Introduction. -- Three French moralists: La Rochefoucauld, La Bruyère,
   Vauvenargues. -- The gallantry of France.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19872#Three-French-Moralists-and-The-Gallantry-of-France
 gutenberg_issued: '2006-11-19'
 gutenberg_type: Text
 identifiers:
