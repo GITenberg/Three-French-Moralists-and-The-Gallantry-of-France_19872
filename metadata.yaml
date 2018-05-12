@@ -1,0 +1,37 @@
+_repo: Three-French-Moralists-and-The-Gallantry-of-France_19872
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gosse, Edmund
+    aliases:
+    - Gosse, Edmund William, Sir
+    - Gosse, Edmund W. (Edmund William)
+    birthdate: 1849
+    deathdate: 1928
+    gutenberg_agent_id: '959'
+    url: http://www.gutenberg.org/2009/agents/959
+    wikipedia: http://en.wikipedia.org/wiki/Edmund_Gosse
+description: 'Introduction. -- Three French moralists: La Rochefoucauld, La Bruyère,
+  Vauvenargues. -- The gallantry of France.'
+gutenberg_issued: '2006-11-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19872'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'La Bruyère, Jean de, 1645-1696'
+- !lcc 'BJ'
+- !lcsh 'World War, 1914-1918 -- France'
+- !lcsh 'La Rochefoucauld, François, duc de, 1613-1680'
+- !lcsh 'Vauvenargues, 1715-1747'
+tableOfContents: 'Introduction -- Three French moralists: La Rochefoucauld, La Bruyère,
+  Vauvenargues -- The gallantry of France -- Bibliographical note.'
+title: Three French Moralists and The Gallantry of France
+url: http://www.gutenberg.org/ebooks/19872
